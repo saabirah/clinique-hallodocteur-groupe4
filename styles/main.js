@@ -1,0 +1,22 @@
+$(document).ready(function(){
+   $('.p1').hide()
+   $('.img1').hover(
+       function(){$('.p1').show();},
+       function(){$('.p1').hide();}
+   );
+   $('.p2').hide()
+   $('.img2').hover(
+       function(){$('.p2').show();},
+       function(){$('.p2').hide();}
+   );
+   $('.p3').hide()
+   $('.img3').hover(
+       function(){$('.p3').show();},
+       function(){$('.p3').hide();}
+   );
+   $('.p4').hide()
+   $('.img4').hover(
+       function(){$('.p4').show();},
+       function(){$('.p4').hide();}
+   );
+})

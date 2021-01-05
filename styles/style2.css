@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo {
+    margin-left: 200px;
+}
+
+.navbar {
+    background-color: rgb(218, 218, 10);
+    border: gray solid 1px;
+}
+
+#dropdownMenu2 {
+    background-color: rgb(218, 218, 10);
+    border: solid 1px rgb(218, 218, 10);
+    color: black;
+    font-size: large;
+    margin-left: 60px;
+}
+
+.nav-link {
+    color: black;
+    font-size: large;
+    margin-left: 150px;
+}
+
+.container-fluid {
+    border: 1px solid black;
+    background: blanchedalmond;
+}
+   
+.fushia{
+    background-color: #ECEEC7;
+}
+form{
+    height: 14vh;
+
+}
+h1{
+   /* font-size: 2.5rem;*/
+}
+
+.section1 > p{
+    color:#26AF21;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 982px)
+ {
+    .section1 > p {  
+        font-size: 0.5rem;   
+}
+ }
+.rounded-circle{
+      padding: 1.5;
+}
+
+.contenu{
+         
+    height: 3000px;                    /* A SUPPRIMER*/
+}
+.section1 .float-left,
+.section1 .float-right {
+    border-radius: 20%;
+    background-color:#F81212;
+}
+
+@media screen and (max-width: 982px) 
+    {
+        .section1 .float-left,
+        .section1 .float-right{
+        font-size: 0.5rem;
+    }
+}
+    .section3 .row{
+       /* border: 1px solid grey;*/
+    }
+.orange{
+    background-color: #F1733D;
+
+    }
+.vide{
+    height: 10vh;
+}
+
+
+section{
+    background-color: white;
+}
+.effet{
+    border:1px solid grey ;
+}
+
+ .effet :hover .effet{
+     background-color: rgb(234, 237, 243);
+
+ }
+ .footer {
+     background-color: rgb(218, 218, 10);
+ }
+

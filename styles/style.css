@@ -1,0 +1,97 @@
+.logo{
+    margin-left: 200px;
+}
+.navbar{
+    background-color: rgb(218, 218, 10);
+    border: gray solid 1px;
+}
+#dropdownMenu2{
+    background-color:rgb(218, 218, 10) ;
+    border: solid 1px rgb(218, 218, 10);
+    color: black;
+    font-size: large;
+    margin-left: 60px;
+}
+.nav-link{
+    color: black;
+    font-size: large;
+    margin-left: 150px;
+}
+.titre1{
+    justify-content: center;
+    text-align:center;
+}
+.bloc1{
+    border: gray 1px solid;
+    padding: 0%;
+}
+.color{
+    background-color: rgb(218, 218, 10);
+    text-align: center;
+}
+.square{
+    width:50px;
+    height: 50px;
+    border: solid 1px gray;
+}
+.bloc2{
+    border: solid 1px gray;
+    padding: 0;
+}
+.titre2{
+    text-align: center;
+    background-color: rgb(218, 218, 10);
+}
+.footer{
+    background-color: rgb(218, 218, 10);
+}
+.blc2{
+    color: black;
+    font-size: 3vh;
+}
+/*handiconsult*/
+.bgimg{
+    background-image:url("../images/istockphoto-2.jpg");
+    border-bottom:rgb(26, 190, 26) 17px solid;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text{
+    color: red;
+    font-size: 2vw;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 180px;
+}
+.text1{
+    color: green;
+    font-size: 2vw;
+}
+.bdr{
+    border: green 1px solid;
+    margin-left: 70px;
+}
+/*teleconsult*/
+.bgimg1{
+    background-image: url('../images/istockphoto-1192879718-1024x1024.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    border-bottom:rgb(26, 190, 26) 17px solid;
+}
+.justify1{
+    color: black;
+    font-size: 2vw;
+}
+.txt2{
+    color: green;
+}
+.mgn{
+    margin-left: 118px;
+    color: black;
+}
+.mgn1{
+    margin-left: 100px;
+    color: black;
+}
